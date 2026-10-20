@@ -44,11 +44,9 @@ Com isso, buscamos tornar a decisão de investir em energia solar mais acessíve
 
 ---
 
-## 👥 Desenvolvedores
+## 👥 Desenvolvedor
 
-- **João Victor Alves da Silva** – RM559726
 - **João Victor Trevisan** – RM560263
-- **Vinicius Kenzo Tocuyosi** – RM559982
 
 📍 São Paulo – SP, 2024
 
