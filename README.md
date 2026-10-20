@@ -1,4 +1,4 @@
-# 📌 Challenge CCR - Calculadora Solar
+# 📌 Calculadora Fotovoltaica em Python
 
 ## 📖 Sobre o Projeto
 
